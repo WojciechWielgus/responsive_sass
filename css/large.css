@@ -1,0 +1,61 @@
+.main-screen {
+  min-height: 80vh;
+}
+
+nav .navbar {
+  margin-left: 50px;
+}
+
+nav .navbar::before {
+  content: '+48 536 048 528';
+  position: absolute;
+  color: #2742CC;
+  font-size: 25px;
+  font-weight: 700;
+  right: -17%;
+}
+
+nav ul li {
+  font-size: 20px;
+  padding: 0px 20px;
+}
+
+header {
+  margin-left: 50px;
+}
+
+header .header-description {
+  font-size: 24px;
+}
+
+header .header-description h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+main #aboutus {
+  margin-top: 100px;
+  padding-bottom: 300px;
+}
+
+main #aboutus h1 {
+  font-size: 40px;
+}
+
+footer .footer-banner {
+  min-height: 250px;
+  width: 80%;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  font-size: 20px;
+}
+
+footer .footer-banner h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+footer .footer-info {
+  margin-top: -150px;
+}
+/*# sourceMappingURL=large.css.map */

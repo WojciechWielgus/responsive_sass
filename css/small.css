@@ -1,0 +1,17 @@
+main #aboutus .aboutus-item img {
+  display: block;
+}
+
+main #aboutus h1 {
+  font-size: 32px;
+}
+
+footer .footer-banner .footer-banner-text {
+  text-align: left;
+  padding-left: 41px;
+}
+
+footer .footer-banner .footer-banner-button {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=small.css.map */

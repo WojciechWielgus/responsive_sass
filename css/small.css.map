@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAGY,IAHR,CACA,QAAQ,CACJ,aAAa,CACT,GAAG,CAAC;EACA,OAAO,EAAE,KAAK;CAAG;;AAJjC,AAMQ,IANJ,CACA,QAAQ,CAKJ,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;CAAG;;AAE9B,AAEQ,MAFF,CACF,cAAc,CACV,mBAAmB,CAAC;EAChB,UAAU,EAAE,IAAI;EAChB,YAAY,EAAE,IAAI;CAAG;;AAJjC,AAKQ,MALF,CACF,cAAc,CAIV,qBAAqB,CAAC;EAClB,aAAa,EAAE,CAAC;CAAG",
+    "sources": [
+        "../sass/small.sass"
+    ],
+    "names": [],
+    "file": "small.css"
+}

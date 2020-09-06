@@ -1,0 +1,34 @@
+.bg-img {
+  position: absolute;
+  width: 70%;
+}
+
+.fa-bars {
+  color: #000000;
+}
+
+main #aboutus h1 {
+  font-size: 40px;
+}
+
+footer .footer-banner .footer-banner-text {
+  padding-left: 100px;
+}
+
+footer .footer-info .footer-info-item:nth-child(1) {
+  text-align: left;
+}
+
+footer .footer-info .footer-info-item:nth-child(1) span {
+  display: block;
+}
+
+footer .footer-info .footer-info-item:nth-child(2) {
+  margin: 0 auto;
+  text-align: center;
+}
+
+footer .footer-info .footer-info-item:nth-child(3) {
+  text-align: right;
+}
+/*# sourceMappingURL=medium.css.map */
