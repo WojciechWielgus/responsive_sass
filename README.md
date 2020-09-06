@@ -1,1 +1,1 @@
-[main_imgage](README_img/img01.PNG)
+[main_imgage](README_img/img01.PNG?raw=true)
